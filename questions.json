@@ -1,0 +1,10 @@
+{
+  "title": "준비해 둔 질문",
+  "owner": "월간 보고 SQL 앱 — 질문은 아직 없습니다.",
+  "files": [
+    { "match": "직원목록", "table": "employees" },
+    { "match": "출장내역", "table": "trips" },
+    { "match": "정산내역", "table": "expenses" }
+  ],
+  "questions": []
+}
